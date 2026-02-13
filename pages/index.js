@@ -1,6 +1,6 @@
 function Home1() {
   return (
-    <h1>Ana eu amo você meu amor, você me ama, se sim da uma risadinha!</h1>
+    <h1>Deck Dragon caio</h1>
   );
 }
 
