@@ -1,7 +1,15 @@
-function Home1() {
+function Home() {
   return (
-    <h1>Você e especial de Ronald para Lavinia</h1>
+    <div style={{ 
+      display: 'flex', 
+      justifyContent: 'center', 
+      alignItems: 'center', 
+      height: '100vh',
+      fontFamily: 'sans-serif' 
+    }}>
+      <h1>Você é especial, de Ronald para Lavínia</h1>
+    </div>
   );
 }
 
-export default Home1;
+export default Home;
