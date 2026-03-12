@@ -7,7 +7,7 @@ function Home() {
       height: '100vh',
       fontFamily: 'sans-serif' 
     }}>
-      <h1>Você é especial, de Ronald</h1>
+      <h1>Você é especial, de Ronald!S2</h1>
     </div>
   );
 }
